@@ -25,6 +25,6 @@ This is a simple command-line alarm clock written in Python. It allows users to 
    Copy code
    pip install playsound
 
-3. **Place your alarm sound file in the project directory:
+3. **Place your alarm sound file in the project directory:**
 
    Ensure that the iphone_alarm.mp3 file is in the same directory as the script. You can use any .mp3 file, but you may need to change the filename in the script.
